@@ -21,6 +21,8 @@ namespace App2.Droid
 
             base.OnCreate(bundle);
             base.OnCreate(bundle);
+            base.OnCreate(bundle);
+            base.OnCreate(bundle);
 
             global::Xamarin.Forms.Forms.Init(this, bundle);
             LoadApplication(new App());
